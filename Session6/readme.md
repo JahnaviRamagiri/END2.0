@@ -16,7 +16,7 @@ Dataset: <https://canvas.instructure.com/courses/2734517/files/138795503?wrap=1>
 
 The Tweets.csv dataset is divided into 3 classes: Positive, Neutral, Negative
 
-![](Aspose.Words.c84fa85d-0506-4c6a-9599-b3b6a0678bd1.001.png)
+![](https://github.com/JahnaviRamagiri/END2.0/blob/main/Session6/images/tweets_label.png)
 
 **Encoder Decoder Architecture:** 
 
@@ -32,13 +32,13 @@ The  Defined Parameters for each class are as mentioned below:
 
 **Model Parameters**
 
-![](Aspose.Words.c84fa85d-0506-4c6a-9599-b3b6a0678bd1.002.png)
+![](https://github.com/JahnaviRamagiri/END2.0/blob/main/Session6/images/Model_param.png)
 
 **Encoder and Decoder Outputs:**
 
-![](Aspose.Words.c84fa85d-0506-4c6a-9599-b3b6a0678bd1.003.png)
+![](https://github.com/JahnaviRamagiri/END2.0/blob/main/Session6/images/Encoder_decoder_output.png)
 
 **Accuracy:**
 
-![](Aspose.Words.c84fa85d-0506-4c6a-9599-b3b6a0678bd1.004.png)
+![](https://github.com/JahnaviRamagiri/END2.0/blob/main/Session6/images/Acuracy.png)
 
